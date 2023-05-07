@@ -3,6 +3,8 @@ My first web project, created in 2017. The website allows users to share their P
 
 ## 📸 Screenshots
 <p> ⭐ Main Page </p>
-<img src="sc1.png" width="900"  />
+<img src="sc.png" width="900"  />
 <p> ⭐ Upload Form </p>
 <img src="sc2.png" width="900" />
+<p> ⭐ Login Form </p>
+<img src="sc3.png" width="900" />
